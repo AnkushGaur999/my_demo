@@ -44,7 +44,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             const Text('Welcome'),
             const Text('This is home screen'),
-            const Text('Secure and fast app'),
+            const Text('Secure and fast app updated'),
           ],
         ),
       ),
@@ -52,4 +52,4 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 
-/// 4th change in feat
+/// 5th change in feat
