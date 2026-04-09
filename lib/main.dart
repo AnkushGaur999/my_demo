@@ -40,11 +40,15 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[const Text('This is home screen')],
+          spacing: 10,
+          children: <Widget>[
+            const Text('Welcome'),
+            const Text('This is home screen'),
+          ],
         ),
       ),
     );
   }
 }
 
-/// 1st changes in feat
+/// 2nd change in feat
